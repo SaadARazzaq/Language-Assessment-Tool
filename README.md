@@ -2,6 +2,8 @@
 
 The Language Assessment Tool is a Python application with a user-friendly graphical interface. It allows users to estimate their overall IELTS band score based on scores for the Listening, Speaking, Reading, and Writing sections.
 
+![image](https://github.com/SaadARazzaq/Language-Assessment-Tool/assets/123338307/0fd27272-6473-4f4c-be0a-8143b1f298c0)
+
 ## Features 🌟
 
 - **Interactive Sliders**: Easily select scores between 0 and 9 using intuitive sliders.
