@@ -14,7 +14,7 @@ The Language Assessment Tool is a Python application with a user-friendly graphi
 
 ## Getting Started 🚀
 
-- Create a Virtual environment
+- Setup a Virtual environment
   ```bash
   python3 -m venv myenv
   ```
